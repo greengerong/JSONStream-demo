@@ -9,7 +9,7 @@ run demo:
 	npm run demo
 
 
-Douban API : [https://api.douban.com/v2/book/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA](https://api.douban.com/v2/book/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA)
+Douban API : [https://api.douban.com/v2/book/search?q=计算机](https://api.douban.com/v2/book/search?q=计算机)
 
 get result:
 
