@@ -1,0 +1,16 @@
+{
+  "name": "jsons-stream-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo": "npm install && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "event-stream": "^3.3.1",
+    "request": "^2.60.0"
+  }
+}
